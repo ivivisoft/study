@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">Study</string>
+    <string name="version">android_1.4.2</string>
+    <string name="help">帮助</string>
+    <string name="hint_phone">手机号</string>
+    <string name="hint_pwd">密码</string>
+    <string name="forget_pwd">忘记密码</string>
+    <string name="forget_hand">忘记手势</string>
+    <string name="hint_verification_code">验证码</string>
+    <string name="btn_send">发送</string>
+    <string name="send_success">发送成功</string>
+    <string name="btn_login">登录</string>
+    <string name="new_user_reg">新用户?立即注册</string>
+    <string name="retrieve_password">找回密码</string>
+    <string name="hint_setting_newpwd">设置新的登录密码</string>
+    <string name="modify_pwd">更改密码</string>
+    <string name="btn_register">注册</string>
+    <string name="label_log_on">已有账户,<font color='#FF0000'>立即登录</font></string>
+    <string name="label_agree_reg">同意用户注册协议</string>
+    <string name="title_about_us">关于我们</string>
+    <string name="title_bind_bankcard">绑定银行卡</string>
+    <string name="label_platform_introduction">平台介绍</string>
+    <string name="label_product_introduction">产品介绍</string>
+    <string name="label_contact_us">联系我们</string>
+    <string name="label_version_number">版本号</string>
+    <string name="label_additional_important_information">补充说明重要信息，支持银行列表</string>
+    <string name="hint_bank_card">银行卡号</string>
+    <string name="btn_verification">验证</string>
+    <string name="title_realname">实名认证</string>
+    <string name="hint_real_name">真实姓名</string>
+    <string name="hint_idcard">身份证号码</string>
+    <string name="btn_next_step">下一步</string>
+    <string name="title_setandsafe">设置与安全</string>
+    <string name="label_no_realname">未认证</string>
+    <string name="label_bankcard">银行卡</string>
+    <string name="label_no_bind">未绑卡</string>
+    <string name="label_login_pwd">登录密码</string>
+    <string name="label_pay_pwd">交易密码</string>
+    <string name="label_no_set">未设置</string>
+    <string name="label_hand_unlock">手势解锁</string>
+    <string name="label_exit_user">退出账户</string>
+    <string name="lockscreen_access_pattern_cell_added">Cell added</string>
+    <string name="lockscreen_access_pattern_start">Pattern started</string>
+    <string name="lockscreen_access_pattern_detected">Pattern completed</string>
+    <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
+    <string name="title_hand_unlock_setup">手势解锁设置</string>
+    <string name="repeat_hand_pwd">重复手势密码</string>
+    <string name="lockpattern_recording_incorrect_start">绘制解锁图案</string>
+    <string name="lockpattern_recording_incorrect_again">再次绘制解锁图案</string>
+    <string name="lockpattern_recording_incorrect_too_short">至少连接4个点，请重新输入</string>
+    <string name="lockpattern_recording_incorrect_again_wrong">与上次绘制不一致，请重新绘制</string>
+    <string name="other_account_login">其他账号登录</string>
+    <string name="lockpattern_error1">手势不正确，还剩下</string>
+    <string name="lockpattern_error2">次机会</string>
+    <string name="lockpattern_error3">手势不正确</string>
+    <string name="phone_no_empty">手机号码不能为空</string>
+    <string name="phone_format_error">请输入正确的手机号</string>
+    <string name="please_check_the_user_registration_agreement">请勾选同意用户注册协议</string>
+    <string name="hint_sms_verification_code">短信验证码</string>
+    <string name="hint_setting_login_pwd">设置登录密码</string>
+    <string name="hint_invitation_code">邀请码</string>
+    <string name="label_resend">重新发送</string>
+    <string name="mobile_no_register">手机号码未注册</string>
+    <string name="mobile_exists">该手机已经注册，您可直接登录</string>
+    <string name="sms_code_no_empty">短信验证码不能为空</string>
+    <string name="log_pwd_no_empty">登录密码不能为空</string>
+    <string name="please_input_log_pwd">请设置正确的登录密码格式</string>
+    <string name="reg_success">注册成功</string>
+    <string name="second">s</string>
+    <string name="register_verification_success">验证码发送成功</string>
+    <string name="pwd_format">8-16位字母和数字</string>
+    <string name="register_msg_code_error">验证码输入错误</string>
+    <string name="error_count_exceeded">验证码输入错误，请点击右上方帮助</string>
+    <string name="login_success">登录成功</string>
+    <string name="login_error_count_too_much">错误次数过多，15分钟后可再次登录，建议您点击忘记密码来找回</string>
+    <string name="hint_setting_new_pwd">设置新密码</string>
+    <string name="hint_repeat_pwd">重复密码</string>
+    <string name="pwd_no_empty">密码不能为空</string>
+    <string name="repeatpwd_no_empty">重复密码不能为空</string>
+    <string name="two_pwd_atypism">请确保两次密码一致</string>
+    <string name="update_loginpwd">修改登录密码</string>
+    <string name="hint_old_pwd">原密码</string>
+    <string name="hint_new_pwd">新密码</string>
+    <string name="hint_confirm_newpwd">确认新密码</string>
+    <string name="msg_pwd_format_error">密码为8-16位字母和数字</string>
+    <string name="label_login_safe">登录更安全,隐私有保障.您也可以\n选择下方指纹解锁</string>
+    <string name="login_other_user">登录其他账户</string>
+    <string name="tab_home">首页</string>
+    <string name="tab_product">投资项目</string>
+    <string name="tab_servicecentre">服务中心</string>
+    <string name="tab_mymoney">我的钱包</string>
+    <string name="label_accumulated_income">累计收益</string>
+    <string name="total_assets">总资产</string>
+    <string name="account_balance">账户余额</string>
+    <string name="label_my_msg">我的消息</string>
+    <string name="label_investment_record">投资记录</string>
+    <string name="label_money_safe">资金安全</string>
+    <string name="label_setting_safe">设置与安全</string>
+    <string name="label_my_discount">我的优惠</string>
+    <string name="label_invite_friends">邀请好友</string>
+    <string name="label_project_list">项目列表</string>
+    <string name="label_yqsyl">预期收益率%</string>
+    <string name="label_tzqx">投资期限</string>
+    <string name="title_hand_manager">手势与指纹设置</string>
+    <string name="update_hand_pwd">修改手势密码</string>
+    <string name="forget_hand_pwd">忘记手势密码</string>
+    <string name="label_handpwd">手势密码</string>
+    <string name="label_fingerprint">指纹密码</string>
+    <string name="title_safe_hint">安全提示</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_setting">去设置</string>
+    <string name="btn_zhiwen">开启指纹</string>
+    <string name="btn_hand">开启手势</string>
+    <string name="safe_hint1">为了您的安全，手势解锁与指纹解锁必须保留其中一项。关闭手势解锁请先开启指纹解锁</string>
+    <string name="safe_hint2">为了您的安全，手势解锁与指纹解锁必须保留其中一项。关闭指纹解锁请先开启手势解锁</string>
+    <string name="please_input_login_pwd">请输入登录密码验证身份</string>
+    <string name="btn_check">验证</string>
+    <string name="exit">再按一次返回键退出米金社</string>
+
+    <string name="fingerprint_description">Confirm your fingerprint.</string>
+    <string name="fingerprint_hint">Touch sensor</string>
+
+    <!-- Button text -->
+    <string name="start_btn">开始指纹识别</string>
+    <string name="cancel_btn">取消指纹识别</string>
+
+    <string name="fingerprint_success">指纹验证成功</string>
+    <string name="fingerprint_not_recognized">指纹未识别，再试一次</string>
+    <string name="for_financial_security_gesture_password_can_not_be_closed">为了资金安全，手势密码不能关闭</string>
+
+    <!-- Dialog info -->
+    <string name="no_sensor_dialog_title">该手机不支持指纹</string>
+    <string name="no_sensor_dialog_message">No fingerprint sensor on your device, click cancel to exit.</string>
+    <string name="no_fingerprint_enrolled_dialog_title">没有指纹登记</string>
+    <string name="no_fingerprint_enrolled_dialog_message">没有指纹登记, 进入\n
+        <font fgcolor="green">设置->指纹->指纹管理\n</font>
+        点击取消退出</string>
+    <string name="please_input_finger">请输入指纹</string>
+    <string name="ok_btn_dialog">OK</string>
+    <string name="cancel_btn_dialog">取消</string>
+    <string name="finger_unlock">指纹解锁</string>
+    <string name="Click_Touch_ID_to_unlock">点击使用Touch ID解锁</string>
+
+    <!-- auth result error amd help code warning -->
+    <string name="AcquiredGood_warning">The image acquired was good.</string>
+    <string name="AcquiredImageDirty_warning">The fingerprint image was too noisy due to suspected or detected dirt on the sensor.
+        For example, it\'s reasonable to return this after multiple AcquiredInsufficient or
+        actual detection of dirt on the sensor (stuck pixels, swaths, etc.).
+        The user is expected to take action to clean the sensor when this is returned.</string>
+    <string name="AcquiredInsufficient_warning">The fingerprint image was too noisy to process due to
+        a detected condition (i.e. dry skin) or a possibly dirty sensor.</string>
+    <string name="AcquiredPartial_warning">Only a partial fingerprint image was detected.
+        During enrollment, the user should be informed on what needs to happen to resolve this problem, e.g., "press firmly on sensor."</string>
+    <string name="AcquiredTooFast_warning">The fingerprint image was incomplete due to quick motion.
+        While mostly appropriate for linear array sensors, this could also happen if the finger was moved during acquisition.
+        The user should be asked to move the finger slower (linear) or leave the finger on the sensor longer.</string>
+    <string name="AcquiredToSlow_warning">The fingerprint image was unreadable due to lack of motion.
+        This is most appropriate for linear array sensors that require a swipe motion.</string>
+    <string name="ErrorCanceled_warning">The operation was canceled because the fingerprint sensor is unavailable.
+        For example, this may happen when the user is switched,
+        the device is locked, or another pending operation prevents or disables it.</string>
+    <string name="ErrorHwUnavailable_warning">The hardware is unavailable. Try again later.</string>
+    <string name="ErrorLockout_warning">The operation was canceled because the API is locked out due to too many attempts.</string>
+    <string name="ErrorNoSpace_warning">Error state returned for operations like enrollment;
+        the operation cannot be completed because there\'s not enough storage remaining to complete the operation.</string>
+    <string name="ErrorTimeout_warning">Error state returned when the current request has been running too long.
+        This is intended to prevent programs from waiting for the fingerprint sensor indefinitely.
+        The timeout is platform and sensor-specific, but is generally about 30 seconds.</string>
+    <string name="ErrorUnableToProcess_warning">Error state returned when the sensor was unable to process the current image.</string>
+
+
+</resources>

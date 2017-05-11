@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    背景颜色，添加bg前缀
+    文本颜色，添加text前缀
+    分割线颜色，添加div前缀
+    区分状态时，默认状态的颜色，添加normal后缀
+    区分状态时，按下时的颜色，添加pressed后缀
+    区分状态时，选中时的颜色，添加selected后缀
+    区分状态时，不可用时的颜色，添加disable后缀-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_black">#444444</color>
+    <color name="text_white">#ffffff</color>
+    <!-- 橙色 -->
+    <color name="text_orange">#f2774d</color>
+    <!-- 橙色 按钮颜色通用-->
+    <color name="btn_orange">#f2774c</color>
+    <color name="text_red">#ff0000</color>
+    <color name="orange_ff835b">#FF835B</color>
+    <color name="orange_ff7c62">#ff7c62</color>
+    <!-- 内边框填充色 -->
+    <color name="et_fill">#FAFAFA</color>
+    <!-- 边框线条颜色 -->
+    <color name="et_line">#979797</color>
+    <!-- 分割线颜色 -->
+    <color name="div_line">#cccccc</color>
+    <color name="no_focus_line">#ffcccccc</color>
+    <color name="text_gery">#777777</color>
+
+    <color name="cricle_in_color">#F09026</color>
+    <color name="cricle_out_color">#DCDCDC</color>
+    <color name="common_tv_color">#f6764a</color>
+
+
+    <color name="warning_color">#f4511e</color>
+    <color name="hint_color">#42000000</color>
+    <color name="success_color">#009688</color>
+</resources>
